@@ -1,0 +1,11 @@
+body{
+    background-image: url(../images/hatterkep.png);
+    color: indigo;
+}
+h1,h2{
+    color: red;
+}
+hr{
+    color: red;
+   background-color: red;
+}
